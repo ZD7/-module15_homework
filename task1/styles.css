@@ -1,0 +1,13 @@
+.fill {
+  fill-opacity: 0;
+}
+
+.btn--magic .fill {
+  fill-opacity: 1;
+}
+
+.btn--magic .no_fill {
+    fill-opacity: 0;
+}
+
+
